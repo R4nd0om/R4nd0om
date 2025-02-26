@@ -19,7 +19,7 @@ Here’s a bit about me, my skills, and my projects!
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub commits difference between two branches/tags/commits](https://img.shields.io/github/commits-difference/:user/:repo)
+I use <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="20" height="20"/> **Visual Studio Code** for development.
 
 ---
 
@@ -38,12 +38,15 @@ Here’s a bit about me, my skills, and my projects!
 
 ---
 
-## 📫 How to Reach Me
+# 📞 Contact Me
 
-- **Email**: [a-yaushev@bk.ru](mailto:a-yaushev@bk.ru)  
-- **VK**: [VK](https://vk.com/r4ndo_om)  
-- **Telegram**: [Tg](https://t.me/R4ndo_om)  
-- **Portfolio**: [Portfolio](https://f9177717s.beget.com)
+Feel free to reach out to me on:
+
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/r4ndo_om)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/R4ndo_om)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79177717889)
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:a-yaushev@bk.ru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://f9177717s.beget.com)
 
 ---
 

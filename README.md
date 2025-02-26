@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Azamat
 
-![Banner]([https://github.com/R4nd0om/R4nd0om/blob/main/R4ndom_Banner_Mult.png])
+![Banner]([https://github.com/R4nd0om/R4nd0om/blob/main/R4ndom_Banner_Mult.png](https://github.com/R4nd0om/R4nd0om/blob/main/R4ndom_Banner_Mult.png))
 
 I'm a passionate **[Your Role, e.g., Software Developer, Data Scientist, Full-Stack Engineer]** with a love for solving problems and building awesome things.  
 Here’s a bit about me, my skills, and my projects!

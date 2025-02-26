@@ -55,7 +55,7 @@ Feel free to reach out to me on:
 ### **Azamat Yaushev**
 - **Role**: Frontend Developer
 - **GitHub**: [@R4nd0om](https://github.com/R4nd0om)
-- **Avatar**: ![Azamat Yaushev]("./me_:).jpg")
+- **Avatar**: ![Azamat Yaushev](./me.jpg)
 
 ### **Gleb Zubenko**
 - **Role**: Designer

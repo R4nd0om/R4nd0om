@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Azamat
 
 ![Banner](https://via.placeholder.com/1200x400) <!-- Добавьте баннер, если есть -->
 

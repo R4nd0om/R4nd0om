@@ -50,5 +50,19 @@ Feel free to reach out to me on:
 
 ---
 
+## 👥 My Team
+
+### **Azamat Yaushev**
+- **Role**: Frontend Developer
+- **GitHub**: [@R4nd0om](https://github.com/R4nd0om)
+- **Avatar**: ![Azamat Yaushev](https://via.placeholder.com/100)
+
+### **Gleb Zubenko**
+- **Role**: Designer
+- **Behance**: [@Glebzubenko](https://www.behance.net/glebzubenko)
+- **Avatar**: ![Gleb Zubenko](https://mir-s3-cdn-cf.behance.net/user/115/5f84161315066239.65f4a2ae469b3.jpg)
+
+---
+
 ⭐ **Thanks for visiting my profile!** ⭐  
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat!

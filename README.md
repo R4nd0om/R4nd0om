@@ -15,7 +15,7 @@ Here’s a bit about me, my skills, and my projects!
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
-![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/:period/:user/:repo)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

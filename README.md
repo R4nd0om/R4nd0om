@@ -60,7 +60,7 @@ Feel free to reach out to me on:
 ### **Gleb Zubenko**
 - **Role**: Designer
 - **Behance**: [@Glebzubenko](https://www.behance.net/glebzubenko)
-- **Avatar**: ![Gleb Zubenko](https://mir-s3-cdn-cf.behance.net/user/115/5f84161315066239.65f4a2ae469b3.jpg)
+- **Avatar**: <img src="[https://via.placeholder.com/100](https://mir-s3-cdn-cf.behance.net/user/115/5f84161315066239.65f4a2ae469b3.jpg)" alt="John Doe" style="border-radius: 50%; width: 100px; height: 100px;">
 
 ---
 

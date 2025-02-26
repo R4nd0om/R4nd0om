@@ -2,7 +2,7 @@
 
 ![Banner](./R4ndom_Banner_Mult.png)
 
-I'm a passionate **[Your Role, e.g., Software Developer, Data Scientist, Full-Stack Engineer]** with a love for solving problems and building awesome things.  
+I'm a passionate **Front-End developer** with a love for solving problems and building awesome things.  
 Here’s a bit about me, my skills, and my projects!
 
 ---
@@ -15,28 +15,11 @@ Here’s a bit about me, my skills, and my projects!
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![jsDelivr hits (GitHub)](https://img.shields.io/jsdelivr/gh/:period/:user/:repo)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [Project Name](https://github.com/username/project-name)
-📝 **Description**: A brief description of the project.  
-🛠️ **Tech Stack**: Python, Flask, React.  
-⭐ **Highlights**: What makes this project unique or impressive.
-
-### [Project Name](https://github.com/username/project-name)
-📝 **Description**: Another cool project you’ve worked on.  
-🛠️ **Tech Stack**: Node.js, Express, MongoDB.  
-⭐ **Highlights**: Key achievements or features.
+![GitHub commits difference between two branches/tags/commits](https://img.shields.io/github/commits-difference/:user/:repo)
 
 ---
 
@@ -49,24 +32,18 @@ Here’s a bit about me, my skills, and my projects!
 
 ## 🌱 Currently Learning
 
-- **New Skill**: [Skill Name]  
-- **Exploring**: [Technology or Concept]  
-- **Next Goal**: [Your Goal]
+- **New Skill**: Jquery
+- **Exploring**: SASS and SCSS
+- **Next Goal**: Node.js
 
 ---
 
 ## 📫 How to Reach Me
 
-- **Email**: [email@example.com](mailto:email@example.com)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-- **Twitter**: [Your Twitter](https://twitter.com/your-handle)  
-- **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
-
----
-
-## 🐱‍💻 Fun Fact
-
-I once [write something fun or interesting about yourself, e.g., "wrote a script that automated my morning coffee routine"].
+- **Email**: [a-yaushev@bk.ru](mailto:a-yaushev@bk.ru)  
+- **VK**: [VK](https://vk.com/r4ndo_om)  
+- **Telegram**: [Tg](https://t.me/R4ndo_om)  
+- **Portfolio**: [Portfolio](https://f9177717s.beget.com)
 
 ---
 

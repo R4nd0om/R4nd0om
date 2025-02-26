@@ -19,7 +19,7 @@ Here’s a bit about me, my skills, and my projects!
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-I use <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="20" height="20"/> **Visual Studio Code** for development.
+</br> I use <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="20" height="20"/> **Visual Studio Code** for development.
 
 ---
 
@@ -38,7 +38,7 @@ I use <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studi
 
 ---
 
-# 📞 Contact Me
+## 📞 Contact Me
 
 Feel free to reach out to me on:
 

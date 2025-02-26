@@ -46,7 +46,7 @@ Feel free to reach out to me on:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/R4ndo_om)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79177717889)
 [![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:a-yaushev@bk.ru)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://f9177717s.beget.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://R4ndom.ru)
 
 ---
 
